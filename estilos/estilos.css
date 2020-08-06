@@ -1,0 +1,19 @@
+.navbar{
+	box-shadow: 2px 2px beige;
+}
+.navbar .nav-item .nav-link{
+	color: white;
+}
+.main-header{
+	background: url(../img/principal.jpg);
+
+}
+.background-overlay{
+	background: rgba(194, 91, 23, 0.6);
+}
+.fondo{
+	background-color: #cc7e25;
+}
+.borde{
+    border-color: black;
+}
